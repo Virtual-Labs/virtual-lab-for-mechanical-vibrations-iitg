@@ -1,0 +1,94 @@
+{
+    "lab": {
+        "build_requirements": {
+            "platform": {
+                "arch": "i386", 
+                "build_steps": {
+                    "build": ["make -C ../src"],
+                    "configure": [],
+                    "post_build": [], 
+                    "pre_build": [], 
+                    "status": []
+                }, 
+                "installer": [], 
+                "os": "ubuntu", 
+                "osVersion": "12", 
+                "service_pack": ""
+            }
+        }, 
+        "description": {
+            "developer": [
+                {
+                    "contact": {
+                        "alternate_email": "", 
+                        "email": "rtiwari@iitg.ernet.in", 
+                        "mobile_number": "", 
+                        "office_number": ""
+                    }, 
+                    "department": "Mechanical Engineering", 
+                    "institute": "IIT Guwahati", 
+                    "name": "Prof. Rajiv Tiwari", 
+                    "organization": "", 
+                    "role": "Principal Investigator", 
+                    "title": "", 
+                    "web": ""
+                }, 
+                {
+                    "contact": {
+                        "alternate_email": "", 
+                        "email": "dwivedy@iitg.ernet.in", 
+                        "mobile_number": "", 
+                        "office_number": ""
+                    }, 
+                    "department": "Mechanical Engineering", 
+                    "institute": "IIT Guwahati", 
+                    "name": "Prof. Santosha K. Dwiwedy", 
+                    "organization": "", 
+                    "role": "Co-Principal Investigator", 
+                    "title": "", 
+                    "web": ""
+                } 
+            ], 
+            "discipline": [
+                "Mechanical Engineering"
+            ], 
+            "id": "me01", 
+            "integration_level": 6, 
+            "name": "Virtual Lab for Mechanical Vibrations", 
+            "server-side": true, 
+            "status": "Released", 
+            "type": ""
+        },  
+        "runtime_requirements": {
+            "platform": {
+                "arch": "i386", 
+                "hosting": "dedicated", 
+                "installer": ["sudo apt-get update","sudo apt-get install -y apache2"], 
+                "lab_actions": {
+                    "backup": [], 
+                    "clean": [], 
+                    "init": ["mv /var/www/index.html index.html.default","cp -r ../build/* /var/www/","chmod 775 /var/www/ -R"], 
+                    "pause": [], 
+                    "publish": [], 
+                    "restore": [], 
+                    "resume": [], 
+                    "shutdown": ["service apache2 stop"], 
+                    "start": ["service apache2 start"], 
+                    "stats": [], 
+                    "stop": []
+                }, 
+                "memory": {
+                    "max_required": "2gb", 
+                    "min_required": "256mb"
+                }, 
+                "os": "ubuntu", 
+                "osVersion": "12", 
+                "servicepack": "", 
+                "storage": {
+                    "min_required": "10gb"
+                }
+            }
+        }
+    }, 
+    "template": "1.0"
+}

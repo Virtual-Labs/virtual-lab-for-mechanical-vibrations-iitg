@@ -11,7 +11,7 @@
   - To view the Setup of the Forced Vibration of a Cantilever Beam (Continuous System) experiment
   
 * Pre conditions
-  - Refer to first test case []
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg/blob/master/test-cases/integration_test-cases/ForcedVibraCantileverBeam(ContinousSystem)/ForcedVibraCantileverBeam(ContinousSystem)_01_usability_smk.org][ForcedVibraCantileverBeam(ContinousSystem)_01_usability_smk.org]]
 
 * Post conditions
    - Nil

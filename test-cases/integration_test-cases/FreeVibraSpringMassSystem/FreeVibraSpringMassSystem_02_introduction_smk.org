@@ -11,7 +11,7 @@
   - To view the Introduction of the Free Vibration of Spring-Mass System experiment
   
 * Pre conditions
-  - Refer to first test case []
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg/blob/master/test-cases/integration_test-cases/FreeVibraSpringMassSystem/FreeVibraSpringMassSystem_01_usabiltiy_smk.org][FreeVibraSpringMassSystem_01_usabiltiy_smk.org]]
 
 * Post conditions
    - Nil

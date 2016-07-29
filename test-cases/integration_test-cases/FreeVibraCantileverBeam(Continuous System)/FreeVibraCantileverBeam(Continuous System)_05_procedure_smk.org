@@ -11,7 +11,7 @@
   - To view the Procedure of Free Vibration of a Cantilever Beam(Continuous System) experiment
 
 * Pre conditions
-  - Refer to first test case [[][]] 
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg/blob/master/test-cases/integration_test-cases/FreeVibraCantileverBeam(Continuous%20System)/FreeVibraCantileverBeam(Continuous%20System)_01_usability_smk.org][FreeVibraCantileverBeam(Continuous%20System)_01_usability_smk.org]]
 
 * Post conditions
    - Nil

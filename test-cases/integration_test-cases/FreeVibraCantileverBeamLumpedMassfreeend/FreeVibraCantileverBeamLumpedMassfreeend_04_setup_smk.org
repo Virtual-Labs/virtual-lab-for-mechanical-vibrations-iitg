@@ -11,7 +11,7 @@
   - To view the Setup of Free Vibration of a Cantilever Beam with a Lumped Mass at free end experiment
 
 * Pre conditions
-  - Refer to first test case [[][]] 
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg/blob/master/test-cases/integration_test-cases/FreeVibraCantileverBeamLumpedMassfreeend/FreeVibraCantileverBeamLumpedMassfreeend_01_usability_smk.org][FreeVibraCantileverBeamLumpedMassfreeend_01_usability_smk.org]] 
 
 * Post conditions
    - Nil

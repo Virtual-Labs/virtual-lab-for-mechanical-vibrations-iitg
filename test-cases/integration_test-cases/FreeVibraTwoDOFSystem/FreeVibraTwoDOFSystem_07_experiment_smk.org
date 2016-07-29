@@ -11,7 +11,7 @@
   - To view the Experiment of Free Vibration of a Two_DOF System experiment
 
 * Pre conditions
-  - Refer to first test case [[][]] 
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg/blob/master/test-cases/integration_test-cases/FreeVibraTwoDOFSystem/FreeVibraTwoDOFSystem_01_usability_smk.org][FreeVibraTwoDOFSystem_01_usability_smk.org]]  
 
 * Post conditions
    - Nil

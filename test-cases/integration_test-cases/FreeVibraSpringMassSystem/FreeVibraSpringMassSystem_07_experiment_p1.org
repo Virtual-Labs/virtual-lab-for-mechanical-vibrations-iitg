@@ -17,12 +17,12 @@
    - Nil
 
 * Test Steps
-  1. Refer to FreeVibrationofSpring-MassSystem_06_experiment_smk.org
+  1. Refer to FreeVibraSpringMassSystem_06_experiment_smk.org
   2. Click on "Download Executable File to Perform Offline ( Low Bandwidth)" link
   3. Extract the zip file and run the executable obtained.
 
 * Expected result
-  1. Refer to FreeVibrationofSpring-MassSystem_06_experiment_smk.org
+  1. Refer to FreeVibraSpringMassSystem_06_experiment_smk.org
   2. Executable file to perform the experiment should be downloaded.
   3. Executable file was run successfully.
  

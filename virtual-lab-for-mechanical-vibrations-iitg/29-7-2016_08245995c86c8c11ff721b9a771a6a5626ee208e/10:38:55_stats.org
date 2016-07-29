@@ -1,0 +1,41 @@
+* Statistics Report
+** Lab Name : virtual-lab-for-mechanical-vibrations-iitg
+** GitHub URL : https://github.com/Virtual-Labs/virtual-lab-for-mechanical-vibrations-iitg
+** Commit ID : 08245995c86c8c11ff721b9a771a6a5626ee208e
+** Detailed Statistics : https://github.com/issues
+
+Total number of passed test cases = 96
+
+Total number of defects with S1 severity = 0
+
+Total number of defects with S2 severity = 0
+
+Total number of defects with S3 severity = 0
+
+Total number of failed test cases = 0
+
+|-------------------------------------------------------------------------------------------------------|
+| *S.no  |  Experiment Name                 |  Pass Count  |  S1     |  S2     |  S3     |  Fail Count* |
+|-------------------------------------------------------------------------------------------------------|
+| 1.     |  FreeVibraCantileverBeam(Continuous System)  |  9           |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 2.     |  ForcedVibraCantileverBeamLumpedMassfreeend  |  9           |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 3.     |  FreeVibraViscouslyDampedSingleDOFSystem  |  10          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 4.     |  ForcedVibraCantileverBeam(ContinousSystem)  |  5           |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 5.     |  HarmonicallyExcitedRotatingUnbalanceSingleDOFSystem  |  10          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 6.     |  FreeVibraCantileverBeamLumpedMassfreeend  |  10          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 7.     |  ForcedVibraCantileverBeam(ContinuousSystem)  |  4           |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 8.     |  FreeVibraSpringMassSystem       |  9           |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 9.     |  FreeVibraTwoDOFSystem           |  10          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 10.    |  HarmonicallyExcitedForcedVibraSingleDOFSystem  |  10          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 11.    |  HarmonicallyExcitedSupportMotionSingleDOFSystem  |  10          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
